@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Professional Home Services</title>
+  <style>
+    /* Add your custom CSS styles here */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .hero {
+      background-color: #1e3059;
+      color: #fff;
+      text-align: center;
+      padding: 100px 0;
+    }
+
+    .hero h1 {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+
+    .hero p {
+      font-size: 18px;
+    }
+
+    .cta-button {
+      display: inline-block;
+      background-color: #ff5e14;
+      color: #fff;
+      font-size: 24px;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      margin-top: 20px;
+    }
+
+    .services {
+      padding: 50px 0;
+      text-align: center;
+    }
+
+    .services h2 {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+
+    .services ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .services li {
+      display: inline-block;
+      margin: 10px;
+    }
+
+    .about {
+      padding: 50px 0;
+      text-align: center;
+    }
+
+    .about p {
+      font-size: 18px;
+      line-height: 1.5;
+    }
+
+    .how-it-works {
+      padding: 50px 0;
+      text-align: center;
+    }
+
+    .how-it-works h2 {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+
+    .how-it-works ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .how-it-works li {
+      margin-bottom: 10px;
+    }
+
+    .faq {
+      padding: 50px 0;
+      text-align: center;
+    }
+
+    .faq h2 {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+
+    .faq .question {
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .faq .answer {
+      display: none;
+    }
+
+    .contact {
+      padding: 50px 0;
+      text-align: center;
+    }
+
+    .contact p {
+      font-size: 18px;
+      line-height: 1.5;
+    }
+
+    .cta-section {
+      background-color: #f5f5f5;
+      text-align: center;
+      padding: 50px 0;
+    }
+
+    .cta-section .cta-button {
+      background-color: #ff5e14;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- Add your header content here -->
+  </header>
+
+  <section class="hero">
+    <h1>Professional Home Services You Can Trust</h1>
+    <p>Fair Pricing, Reliable Experts, and Premium Customer Service</p>
+    <a href="#contact" class="cta-button">Get Help Now</a>
+  </section>
+
+  <section class="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Plumbing</li>
+      <li>Roofing</li>
+      <li>Mold Removal</li>
+      <li>Locksmith</li>
+      <li>Tree Trimming</li>
+      <li>Bathroom Remodeling</li>
+      <li>Appliance Repair</li>
+      <!-- Add more service items as needed -->
+    </ul>
+  </section>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>Highlight the company's expertise and experience in the home services industry. Mention the commitment to high-quality materials and premium customer service. Include a short paragraph about the company's values and mission.</p>
+  </section>
+
+  <section class="how-it-works">
+    <h2>How It Works</h2>
+    <ul>
+      <li>Step 1: [Description of the first step]</li>
+      <li>Step 2: [Description of the second step]</li>
+      <li>Step 3: [Description of the third step]</li>
+      <!-- Add more steps as needed -->
+    </ul>
+  </section>
+
+  <section class="faq">
+    <h2>Frequently Asked Questions</h2>
+    <div class="question">Question 1</div>
+    <div class="answer">Answer 1</div>
+    <div class="question">Question 2</div>
+    <div class="answer">Answer 2</div>
+    <!-- Add more questions and answers using the same structure -->
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p>For inquiries or to schedule an appointment, please fill out the form below or call us at [phone number].</p>
+    <form>
+      <!-- Add your contact form fields here -->
+    </form>
+  </section>
+
+  <section class="cta-section">
+    <h2>Ready to Get Started?</h2>
+    <a href="#contact" class="cta-button">Contact Us Now</a>
+  </section>
+
+  <footer>
+    <!-- Add your footer content here -->
+  </footer>
+</body>
+</html>
